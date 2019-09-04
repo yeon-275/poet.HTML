@@ -1,0 +1,15 @@
+.poet{
+font-family: 'Nanum Myeongjo', serif;
+text-align: center;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: #948E99;
+}
+.s{
+  text-decoration: none;
+  color: black;
+}

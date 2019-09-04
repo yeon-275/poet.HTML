@@ -1,0 +1,17 @@
+
+.write{
+  font-family: 'Nanum Myeongjo', serif;
+  text-align: center;
+  color: white;
+  font-weight: lighter;
+}
+
+body{
+
+  background-color: black;
+}
+
+.gif{
+  display: block;
+  text-align: center;
+}
